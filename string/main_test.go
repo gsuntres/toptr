@@ -1,4 +1,4 @@
-package pointers
+package string
 
 import (
 	"log"
